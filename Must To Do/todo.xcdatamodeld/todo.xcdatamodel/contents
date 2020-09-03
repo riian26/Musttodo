@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19F101" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="DataItem" representedClassName="DataItem" syncable="YES" codeGenerationType="class">
+        <attribute name="dateCore" optional="YES" attributeType="Date" defaultDateTimeInterval="620801520" usesScalarValueType="NO"/>
+        <attribute name="identifier" optional="YES" attributeType="String" defaultValueString=""/>
+        <attribute name="priorityCore" attributeType="String" defaultValueString=""/>
+        <attribute name="titleCore" optional="YES" attributeType="String" defaultValueString=""/>
+    </entity>
+    <elements>
+        <element name="DataItem" positionX="-63" positionY="-18" width="128" height="103"/>
+    </elements>
+</model>
